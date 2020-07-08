@@ -6,3 +6,4 @@ i am 20 years old.
 
 Currentyl I am interested in Data analysis
 I am looking for an intern in any data science companies.
+May searching for linkedin offers is a good idea
