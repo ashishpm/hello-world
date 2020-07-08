@@ -5,4 +5,4 @@ Hi my name is Ashish Murali. I am an undergraduate student pursuing B.Tech from 
 i am 20 years old.
 
 Currentyl I am interested in Data analysis
-I am looking for an intern in GS
+I am looking for an intern in any data science companies.
